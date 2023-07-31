@@ -3,5 +3,9 @@
     color: black;
     position:fixed;
     margin-bottom:5%;
-    height: 7%; 
+    height: 8.5%;
+
+    @media screen and (max-width: 768px) {
+        height: 7%;
+    }
 }

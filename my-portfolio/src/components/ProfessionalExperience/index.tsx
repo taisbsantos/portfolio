@@ -12,10 +12,10 @@ function Experience() {
                 </div>
                 <div className={styles.experienceItem}>
                     <div className={styles.experienceInfo}>
-                        <h2 className={styles.date}>jun/2021 - apr/2023</h2>
-                        <h2 className={styles.title}>
+                        <p className={styles.date}>jun/2021 - apr/2023</p>
+                        <p className={styles.title}>
                             Software developer Intern - Mobicare
-                        </h2>
+                        </p>
                     </div>
                     <p className={styles.description}>
                         I have experience working on different projects, creating new features and maintaining web applications.

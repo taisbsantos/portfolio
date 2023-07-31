@@ -64,7 +64,7 @@
   
   .timelineDate {
     position: absolute;
-    left: -100px; /* Ajuste a posição conforme necessário */
+    left: -100px; 
     top: 0;
     font-weight: bold;
     color: #666;

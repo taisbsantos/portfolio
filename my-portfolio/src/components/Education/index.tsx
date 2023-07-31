@@ -13,13 +13,13 @@ function Education() {
                     <div className={styles.timelineItem}>
                         <div className={styles.timelineDate}>mar/2017 - jul/2024</div>
                         <div className={styles.timelineContent}>
-                            <h2>Computer Science Degree</h2>
+                            <h3>Computer Science Degree</h3>
                         </div>
                     </div>
                     <div className={styles.timelineItem}>
                         <div className={styles.timelineDate}>mar/2013 - dec/2015</div>
                         <div className={styles.timelineContent}>
-                            <h2>Technical Course in Computer Science</h2>
+                            <h3>Technical Course in Computer Science</h3>
                         </div>
                     </div>
                 </div>

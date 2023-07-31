@@ -11,6 +11,8 @@
 
 .title{
     text-align: justify;
+    font-weight: bold;
+
     margin-top:2%;
     margin-left:1%;
 }
@@ -40,6 +42,10 @@
     background-color: #f0f0f0;
 }
 
+.timelineDate {
+    position: absolute;
+
+  }
 .link{
     color: inherit;
     text-decoration: none;
@@ -49,7 +55,7 @@
     width:70%;
     margin-top:2%;
     text-align: justify;
-    font-size:20px;
+    font-size:16px;
 }
 
 .halfCircle {

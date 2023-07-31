@@ -43,7 +43,7 @@ function ResponsiveAppBar() {
   return (
     <AppBar className={styles.navigationBar } style={{ background: 'white' }}>
       <Container maxWidth="xl">
-        <Toolbar disableGutters>
+        <Toolbar disableGutters sx={{ alignItems: 'center' }}>
           <Typography
             variant="h6"
             noWrap
@@ -99,7 +99,7 @@ function ResponsiveAppBar() {
               ))}
             </Menu>
           </Box>
-          <img src={Logo.src} width='40px'/>
+          <img src={Logo.src} width='5%'/>
           <Typography
             variant="h5"
             noWrap
