@@ -17,7 +17,7 @@ function More() {
                     <p>- Portuguese (Native)</p>
                 </div>
                 <div className={styles.more}>
-                    <h1>What I do during my Degree?</h1>
+                    <h1>What I did during my Degree?</h1>
                     <p>- Programming Competitions (SBC, Maratona Mineira and others) </p>
                     <p>- Participation in an extension Project (Minas Coders) </p>
                     <p>- Underdegree Research (NuPPESC) - developing </p>
