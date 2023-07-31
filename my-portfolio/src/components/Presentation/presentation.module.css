@@ -47,11 +47,8 @@
 
 @media screen and (max-width: 768px) {
     .main{
-        display: flex;
-        justify-content: center;
-        align-items: center;
         margin: 15%;
-        margin-top: 20%;
+        margin-top: 30%;
     }
 
     .contact{
