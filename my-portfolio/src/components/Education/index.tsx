@@ -22,7 +22,6 @@ function Education() {
                             <h2>Technical Course in Computer Science</h2>
                         </div>
                     </div>
-                    {/* Adicione mais itens da linha do tempo aqui */}
                 </div>
             </div>
         </main>

@@ -50,7 +50,8 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        margin: 10%;
+        margin: 15%;
+        margin-top: 20%;
     }
 
     .contact{
@@ -68,5 +69,10 @@
     }
     .myPhoto {
         display: none;
+    }
+
+    .halfCircle {
+        width: 80%;
+        height: 33%;
     }
   }

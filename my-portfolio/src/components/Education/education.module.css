@@ -74,7 +74,9 @@
   
   .timelineContent {
     border-left: 4% solid #ccc; 
-    padding-left: 20px;
+    padding-left: 30%;
+    text-align:left;
+    margin:
   }
 
 @media screen and (max-width: 768px) {

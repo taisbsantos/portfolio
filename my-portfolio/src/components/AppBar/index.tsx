@@ -41,7 +41,7 @@ function ResponsiveAppBar() {
   };
 
   return (
-    <AppBar className={styles.navigationBar }>
+    <AppBar className={styles.navigationBar } style={{ background: 'white' }}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <Typography
