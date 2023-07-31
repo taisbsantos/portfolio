@@ -99,7 +99,7 @@ function ResponsiveAppBar() {
               ))}
             </Menu>
           </Box>
-          <img src={Logo.src} width='5%'/>
+          <img src={Logo.src} width='48px'/>
           <Typography
             variant="h5"
             noWrap
