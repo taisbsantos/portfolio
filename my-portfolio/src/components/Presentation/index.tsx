@@ -16,7 +16,7 @@ function Presentation() {
                 
                 <p className={styles.description}>
                     I am a Science Computer student at Universidade Federal de Viçosa - campus Florestal.
-                    I'm  a Full Stack Developer with expertise in Java, Node.js and React.
+                    I&lsquo;m  a Full Stack Developer with expertise in Java, Node.js and React.
                     My first professional experience was as a Software Developer Intern. During this internship,
                     I worked on maintaining and building projects using different technologies.
                     I learned how to build scalable software, apply good coding practices, and also developed my soft skills.
