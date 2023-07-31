@@ -1,0 +1,44 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  font-color:black;
+}
+
+.body {
+  min-height: 100vh; 
+}
+
+.circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  height: 40%;
+  background-color: #007bff;
+  border-radius: 50%;
+}
+
+.name-container {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #007bff;
+  font-size: 2rem;
+  font-weight: bold;
+  white-space: nowrap;
+  animation: slideName 5s linear infinite;
+}
+
+@keyframes slideName {
+  0% {
+    left: 100%;
+  }
+  100% {
+    left: -50%;
+  }
+}

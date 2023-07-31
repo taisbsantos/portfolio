@@ -1,0 +1,9 @@
+h1 {
+  font-family: 'Edu SA Beginner', cursive;
+  font-family: 'Inconsolata', monospace;
+}
+
+* {
+  margin:0;
+  padding:0;
+}

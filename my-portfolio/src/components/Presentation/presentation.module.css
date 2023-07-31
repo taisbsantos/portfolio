@@ -1,0 +1,72 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3%;
+}
+
+.myPhoto{
+    width:20%;
+    border-radius: 50%;
+    margin-left:10%;
+}
+
+.description{
+    margin-top:5%;
+    text-align: justify;
+}
+.presentation{
+    width: 35%;
+    margin-rigth:30%;
+    margin-top:15%;
+
+}
+
+.contact{
+    margin:5%;
+    margin-rigth:2%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.link{
+    color: inherit;
+    text-decoration: none;
+}
+
+.halfCircle {
+    left: -50px;
+    transform: translateY(-50%);
+    width: 50%;
+    height: 33%;
+    background-color: #f0f0f0;
+    border-radius: 50%;
+    text-align:center;
+  }
+
+@media screen and (max-width: 768px) {
+    .main{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10%;
+    }
+
+    .contact{
+        margin:7%;
+        display: flex;
+        justify-content: left;
+        align-items: left;
+    }
+
+    .presentation{
+        width: 100%;
+        margin-rigth:30%;
+        margin-top:25%;
+        
+    }
+    .myPhoto {
+        display: none;
+    }
+  }
